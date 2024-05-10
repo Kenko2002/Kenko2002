@@ -40,7 +40,12 @@
   <img src="https://img.shields.io/badge/ChatGPT-29B6F6?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-
+<p>
+  Experiência:<br>
+  <h4> Tribunal de Justiça do Estado do Espírito Santo - Estagiário de Sistemas - 11 Meses </h4>
+  Responsável pela prototipação, teste e implementação de ferramentas para o setor de Patrimônio.
+  Tecnologias: HTML, CSS (Bootstrap), JS(Jquery), PHP, MySQL
+</p>
 <!--
 **Kenko2002/Kenko2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
