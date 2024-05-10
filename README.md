@@ -55,6 +55,21 @@
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     </div>
+    <h4>Responsável pela implementação dos sistemas:</h4>
+    <ul>
+      <li>
+        Módulo de Agendamento de Veículos
+        <p>Módulo responsável por cadastrar e associar veículos e motoristas, controlar a alocação desses veículos, e gerar relatórios diversos e documentos comprovando a viagem</p>
+      </li>
+      <li>
+        Módulo de Planos de Contratação
+        <p>Módulo responsável por Gerenciar os planos de contratação de todos os setores do poder executivo durante um determinado ano. O sistema também gera relatórios e gráficos em um sub-módulo de BI feito com Chart.Js</p>
+      </li>
+      <li>
+        Módulo de Agendamento de visita de Artífices
+        <p>Eu supervisionei e ajudei no Desenvolvimento de um módulo onde os usuários de diferentes setores podem requisitar Artífices para reparar ou substituir patrimônio danificado.</p>
+      </li>
+    </ul>
 </p>
 <!--
 **Kenko2002/Kenko2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
