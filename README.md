@@ -42,8 +42,8 @@
 
 <h2>Contato</h2>
 <p>
-  Nome: Renzo Fraga Loureiro Marinho
-  Telefone: +55 27 998821080
+  Nome: Renzo Fraga Loureiro Marinho <br>
+  Telefone: +55 27 998821080 <br>
   E-Mail: renzofraga49@gmail.com
 </p>
 
