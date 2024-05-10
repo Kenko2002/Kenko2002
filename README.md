@@ -40,10 +40,8 @@
   <img src="https://img.shields.io/badge/ChatGPT-29B6F6?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
-<h2>
-  Formação Acadêmica  
-</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ifes_Logo.svg/1200px-Ifes_Logo.svg.png" style="width:100px">
+<h2>Formação Acadêmica</h2>
+<img src="https://cdn.discordapp.com/attachments/900119477897818132/1238297186412924998/image.png?ex=663ec59f&is=663d741f&hm=b74858aff9ed2a7aa38cc3b74638bb5940a4a21f7514395005243efb4f2a5dd2&" style="width:100px">
 <p>  
   Cursando 5° Período no curso superior de Sistemas de Informação no IFES Serra.
 </p>
