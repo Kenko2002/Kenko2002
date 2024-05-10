@@ -42,8 +42,8 @@
 
 <p>
   <h2>Experiência:</h2>
-  <h4> Tribunal de Justiça do Estado do Espírito Santo - Estagiário de Sistemas - 11 Meses </h4>
   <img src="https://www.tjes.jus.br/wp-content/uploads/Brasao_simple_COR-1-110x118-2.png">
+  <h3> Tribunal de Justiça do Estado do Espírito Santo - Estagiário de Sistemas - 11 Meses </h3>
   Responsável pela prototipação, teste e implementação de ferramentas para o setor de Patrimônio.
   Tecnologias: 
     <div class="inline-block">
