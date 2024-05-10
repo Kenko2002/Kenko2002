@@ -44,8 +44,8 @@
   <h2>Experiência:</h2>
   <img src="https://www.tjes.jus.br/wp-content/uploads/Brasao_simple_COR-1-110x118-2.png">
   <h3> Tribunal de Justiça do Estado do Espírito Santo - Estagiário de Sistemas - 11 Meses </h3>
-  Responsável pela prototipação, teste e implementação de ferramentas para o setor de Patrimônio. Além da manutenção de sistemas antigos não mencionados aqui.
-  Tecnologias: 
+  Responsável pela prototipação, teste e implementação de ferramentas para o setor de Patrimônio. Além da manutenção de sistemas antigos não mencionados neste documento.<br>
+  <h3>Tecnologias:</h3> 
     <div class="inline-block">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -59,7 +59,7 @@
     <ul>
       <li>
         Módulo de Agendamento de Veículos
-        <p>Módulo responsável por cadastrar e associar veículos e motoristas, controlar a alocação desses veículos, e gerar relatórios diversos e documentos comprovando a viagem</p>
+        <p>Módulo responsável por cadastrar e associar veículos e motoristas, controlar a alocação desses veículos, notificar os usuários em diferentes plataformas de comunicação externas ao sistema, gerar relatórios diversos e documentos comprovando a viagem</p>
       </li>
       <li>
         Módulo de Planos de Contratação
