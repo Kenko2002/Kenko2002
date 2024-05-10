@@ -40,6 +40,14 @@
   <img src="https://img.shields.io/badge/ChatGPT-29B6F6?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
+<h2>
+  Formação Acadêmica  
+</h2>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ifes_Logo.svg/1200px-Ifes_Logo.svg.png">
+  Cursando 5° Período no curso superior de Sistemas de Informação no IFES Serra.
+</p>
+
 <p>
   <h2>Experiência:</h2>
   <img src="https://www.tjes.jus.br/wp-content/uploads/Brasao_simple_COR-1-110x118-2.png">
