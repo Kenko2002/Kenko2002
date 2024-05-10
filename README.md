@@ -43,8 +43,8 @@
 <h2>
   Formação Acadêmica  
 </h2>
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ifes_Logo.svg/1200px-Ifes_Logo.svg.png" style="width:100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ifes_Logo.svg/1200px-Ifes_Logo.svg.png" style="width:100px">
+<p>  
   Cursando 5° Período no curso superior de Sistemas de Informação no IFES Serra.
 </p>
 
