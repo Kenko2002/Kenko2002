@@ -48,7 +48,6 @@
 </p>
 
 <h2>Formação Acadêmica</h2>
-<img src="https://cdn.discordapp.com/attachments/900119477897818132/1238297186412924998/image.png?ex=663ec59f&is=663d741f&hm=b74858aff9ed2a7aa38cc3b74638bb5940a4a21f7514395005243efb4f2a5dd2&" style="width:100px">
 <p>  
   Cursando 5° Período no curso superior de Sistemas de Informação no IFES Serra.
 </p>
