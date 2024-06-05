@@ -57,6 +57,7 @@
   <img src="https://www.tjes.jus.br/wp-content/uploads/Brasao_simple_COR-1-110x118-2.png">
   <h3> Tribunal de Justiça do Estado do Espírito Santo - Estagiário de Sistemas - 1 Ano </h3>
   Responsável pela prototipação, teste e implementação de ferramentas para o setor de Patrimônio. Além da manutenção de sistemas antigos não mencionados neste documento.<br>
+  <a href="https://drive.google.com/file/d/1qNzT6h-bu7iu9tRb-CL4OWWHTuZ9ID9A/view?usp=sharing">Certificado de Desempenho</a> 
   <h3>Tecnologias:</h3> 
     <div class="inline-block">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -82,7 +83,6 @@
         <p>Eu supervisionei e ajudei no Desenvolvimento de um módulo onde os usuários de diferentes setores podem requisitar Artífices para reparar ou substituir patrimônio danificado.</p>
       </li>
     </ul>
-    <a href="https://drive.google.com/file/d/1qNzT6h-bu7iu9tRb-CL4OWWHTuZ9ID9A/view?usp=sharing">Certificado de Desempenho</a> 
    
 </p>
 <!--
