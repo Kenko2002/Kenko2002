@@ -91,4 +91,13 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
         </div>
+        <h4>Participou da implementação dos sistemas:</h4>
+        <ul>
+          <li>
+            Sistema de controle de Frequência via Reconhecimento facial.
+            <p>Projeto em Andamento...</p>
+          </li>
+          <br>
+        </ul> 
+        
   </p>
