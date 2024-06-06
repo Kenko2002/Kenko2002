@@ -82,6 +82,7 @@
             Módulo de Agendamento de visita de Artífices
             <p>Eu supervisionei e ajudei no Desenvolvimento de um módulo onde os usuários de diferentes setores podem requisitar Artífices para reparar ou substituir patrimônio danificado.</p>
           </li>
+          <br>
         </ul> 
         <img style="height:100px ; width:190px" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
         <h3> Instituto Federal do Espírito Santo - Estagiário de Sistemas - 1 mês de 1 Ano  (Trabalho Atual)</h3>
