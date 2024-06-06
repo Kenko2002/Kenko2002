@@ -85,7 +85,7 @@
     </ul>
    
   
-  <img style="height:130px ; width:260px" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
+  <img style="height:100px ; width:220px" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
   <h3> Instituto Federal do Espírito Santo - Estagiário de Sistemas - 1 mês de 1 Ano  (Trabalho Atual)</h3>
   
 </p>
