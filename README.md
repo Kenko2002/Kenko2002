@@ -85,7 +85,7 @@
     </ul>
    
   
-  <img style="height:460px ; width:460px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ifes_Logo.svg/1200px-Ifes_Logo.svg.png">
+  <img style="height:260px ; width:260px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ifes_Logo.svg/1200px-Ifes_Logo.svg.png">
   <h3> Instituto Federal do Espírito Santo - Estagiário de Sistemas - 1 mês de 1 Ano  (Trabalho Atual)</h3>
   
 </p>
