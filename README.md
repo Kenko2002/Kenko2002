@@ -54,8 +54,7 @@
 
 <p>
   <h2>Experiência:</h2>
-  <ul>
-    <li>
+    <p>
       <img src="https://www.tjes.jus.br/wp-content/uploads/Brasao_simple_COR-1-110x118-2.png">
       <h3> Tribunal de Justiça do Estado do Espírito Santo - Estagiário de Sistemas - 1 Ano </h3>
       Responsável pela prototipação, teste e implementação de ferramentas para o setor de Patrimônio. Além da manutenção de sistemas antigos não mencionados neste documento.<br>
@@ -85,12 +84,11 @@
             <p>Eu supervisionei e ajudei no Desenvolvimento de um módulo onde os usuários de diferentes setores podem requisitar Artífices para reparar ou substituir patrimônio danificado.</p>
           </li>
         </ul>
-      </li>
-      <li>
+      </p>
+      <p>
         <img style="height:100px ; width:190px" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
         <h3> Instituto Federal do Espírito Santo - Estagiário de Sistemas - 1 mês de 1 Ano  (Trabalho Atual)</h3>
-      </li>
-    </ul>
+      </p>
   </p>
 <!--
 **Kenko2002/Kenko2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
