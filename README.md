@@ -18,11 +18,13 @@
     </td>
   </tr>
 </table>  
+      <center>
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Kenko2002&theme=dark&hide_border=false"
         alt="Github Stats"
       />
+      </center>
 
 
 
