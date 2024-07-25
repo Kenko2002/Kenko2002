@@ -1,7 +1,5 @@
 
 
-[![Kenko2002]
-
 <table>
   <tr>
     <td>
