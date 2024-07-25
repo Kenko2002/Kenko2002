@@ -16,16 +16,13 @@
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
+  </tr>
+</table>  
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Kenko2002&theme=dark&hide_border=false"
         alt="Github Stats"
       />
-    </td>
-  </tr>
-</table>
 
 
 
