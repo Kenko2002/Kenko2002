@@ -1,6 +1,6 @@
 
 
-<table style="width: 100%;">
+<table style="width: 90%;">
   <tr>
     <td style="width: 33.33%; overflow: hidden;">
       <img
