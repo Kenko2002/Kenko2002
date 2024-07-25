@@ -1,3 +1,4 @@
+```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -34,7 +35,7 @@
     }
   ]
 }
-
+```
 
 <img
   align="center"
