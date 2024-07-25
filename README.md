@@ -3,6 +3,34 @@
 [![Kenko2002](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&hide=html&layout=compact&theme=dark)](https://github.com/Kenko2002/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Kenko2002&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&cache_seconds=2300" alt="ilustração do status do github">  
 
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Kenko2002&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Kenko2002&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
   
 <div class="inline-block">
   <p>Front End:</p>
