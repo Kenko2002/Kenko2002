@@ -1,6 +1,6 @@
 
 [![Kenko2002](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&hide=html&layout=compact&theme=dark)](https://github.com/Kenko2002/github-readme-stats)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Kenko2002&show_icons=true&title_color=white&text_color=white&icon_color=white&bg_color=black&cache_seconds=2300" alt="ilustração do status do github">    
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Kenko2002&show_icons=true&title_color=white&text_color=black&icon_color=white&bg_color=black&cache_seconds=2300" alt="ilustração do status do github">    
 
   
 <div class="inline-block">
