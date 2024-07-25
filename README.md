@@ -19,7 +19,7 @@
   </tr>
 </table>  
 
-<div style="width:100%">
+<div style="width:100%;justify-content:center">
   <img 
   align="center"
   src="https://github-readme-streak-stats.herokuapp.com/?user=Kenko2002&theme=dark&hide_border=false"
