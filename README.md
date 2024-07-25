@@ -19,12 +19,17 @@
   </tr>
 </table>  
 
-<img 
-align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Kenko2002&theme=dark&hide_border=false"
-alt="Github Stats"
-/>
-
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <img 
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Kenko2002&theme=dark&hide_border=false"
+      alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>  
 
 
 
