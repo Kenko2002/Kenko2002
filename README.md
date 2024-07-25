@@ -1,5 +1,5 @@
 
-[![Kenko2002](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&hide=html&layout=compact&theme=dark)](https://github.com/Kenko2002/github-readme-stats)  
+[![Kenko2002](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&hide=html&layout=compact&theme=dark)](https://github.com/Kenko2002/github-readme-stats)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117&cache_seconds=2300" alt="ilustração do status do github">
 
 
