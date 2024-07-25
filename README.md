@@ -13,22 +13,85 @@
         "coordinates": [
           [
             [
-            
-              -40.296265, 
-              -20.315225 
+              -40.296265, // longitude do ponto central (Moacir Avidos)
+              -20.315225  // latitude do ponto central (Moacir Avidos)
             ],
             [
-              -40.295280,
-              -20.315506  
+              -40.295280, // ponto na rua Moacir Avidos
+              -20.315506  // ponto na rua Moacir Avidos
             ],
             [
-              -40.294526, 
-              -20.315771  
+              -40.294526, // ponto na rua Moacir Avidos
+              -20.315771  // ponto na rua Moacir Avidos
             ],
             [
-              -40.294056, 
-              -20.316107 
+              -40.294056, // ponto na rua Moacir Avidos
+              -20.316107  // ponto na rua Moacir Avidos
             ],
+            [
+              -40.293693, // ponto na rua Moacir Avidos
+              -20.316532  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.293478, // ponto na rua Moacir Avidos
+              -20.316994  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.293427, // ponto na rua Moacir Avidos
+              -20.317449  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.293559, // ponto na rua Moacir Avidos
+              -20.317876  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.293850, // ponto na rua Moacir Avidos
+              -20.318240  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.294267, // ponto na rua Moacir Avidos
+              -20.318500  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.294769, // ponto na rua Moacir Avidos
+              -20.318625  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.295315, // ponto na rua Moacir Avidos
+              -20.318596  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.295855, // ponto na rua Moacir Avidos
+              -20.318417  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.296344, // ponto na rua Moacir Avidos
+              -20.318104  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.296741, // ponto na rua Moacir Avidos
+              -20.317685  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.296997, // ponto na rua Moacir Avidos
+              -20.317197  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.297081, // ponto na rua Moacir Avidos
+              -20.316688  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.296972, // ponto na rua Moacir Avidos
+              -20.316202  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.296683, // ponto na rua Moacir Avidos
+              -20.315769  // ponto na rua Moacir Avidos
+            ],
+            [
+              -40.296265, // longitude do ponto central (Moacir Avidos)
+              -20.315225  // latitude do ponto central (Moacir Avidos)
+            ]
           ]
         ]
       }
