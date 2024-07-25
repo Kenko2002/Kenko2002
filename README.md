@@ -1,25 +1,25 @@
 
 
-<table style="width: 120%;">
+<table style="width: 100%;">
   <tr>
-    <td style="max-width: 33.33%; overflow: hidden;">
+    <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api?username=Kenko2002&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
-    <td style="max-width: 33.33%; overflow: hidden;">
+    <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
-    <td style="max-width: 33.33%; overflow: hidden;">
+    <td>
       <br />
       <img
-        align="left"
+        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Kenko2002&theme=dark&hide_border=false"
         alt="Github Stats"
       />
