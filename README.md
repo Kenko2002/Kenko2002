@@ -1,22 +1,22 @@
 
 
-<table style="width: 90%;">
+<table style="width: 100%;">
   <tr>
-    <td style="width: 33.33%; overflow: hidden;">
+    <td style="max-width: 33.33%; overflow: hidden;">
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=Kenko2002&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
-    <td style="width: 33.33%; overflow: hidden;">
+    <td style="max-width: 33.33%; overflow: hidden;">
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
-    <td style="width: 33.33%; overflow: hidden;">
+    <td style="max-width: 33.33%; overflow: hidden;">
       <br />
       <img
         align="left"
