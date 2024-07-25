@@ -1,6 +1,5 @@
 
   
-[![Kenko2002](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&hide=html&layout=compact&theme=dark)](https://github.com/Kenko2002/github-readme-stats)
 
 <div class="inline-block">
   <p>Front End:</p>
