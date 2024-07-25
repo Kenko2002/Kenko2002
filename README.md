@@ -1,23 +1,16 @@
 
 
-<table style="width: 100%;">
-  <tr>
-    <td>
+
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=Kenko2002&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
-    </td>
-    <td>
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenko2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
-    </td>
-  </tr>
-</table>
 
 <img 
 align="center"
