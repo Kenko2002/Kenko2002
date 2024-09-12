@@ -115,13 +115,11 @@ alt="Github Stats"
         <h4>Participou da implementação dos sistemas:</h4>
         <ul>
           <li>
-            Aplicativo de Gestão e controle de Frequência de Cumpridores de Serviço como Medida Alternativa via Reconhecimento facial.
+            Aplicativo de Gestão e controle de Frequência de Cumpridores de Serviço como Medida Alternativa via Reconhecimento facial.  
+            Cliente: 
+            <img src="[https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://www.tjrr.jus.br/images/ascom2017/04abr/logo-vepema.jpg)" />
             <p>Projeto em Andamento...</p>
           </li>
-          <li>
-            
-          </li>
-          
           <br>
         </ul> 
         
