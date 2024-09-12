@@ -115,9 +115,13 @@ alt="Github Stats"
         <h4>Participou da implementação dos sistemas:</h4>
         <ul>
           <li>
-            Sistema de controle de Frequência via Reconhecimento facial.
+            Aplicativo de Gestão e controle de Frequência de Cumpridores de Serviço como Medida Alternativa via Reconhecimento facial.
             <p>Projeto em Andamento...</p>
           </li>
+          <li>
+            
+          </li>
+          
           <br>
         </ul> 
         
