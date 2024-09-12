@@ -104,9 +104,11 @@ alt="Github Stats"
           <br>
         </ul> 
         <img style="height:100px ; width:190px" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
-        <h3> Instituto Federal do Espírito Santo - Estagiário de Sistemas - 1 mês de 1 Ano  (Trabalho Atual)</h3>
+        <h3> Instituto Federal do Espírito Santo - Estagiário de Sistemas - 2 mês de 1 Ano  (Trabalho Atual)</h3>
         <div class="inline-block">
+          <img src="https://img.shields.io/badge/BPMN-00A8E1?style=for-the-badge&logo=java&logoColor=white" />
           <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+          <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
         </div>
