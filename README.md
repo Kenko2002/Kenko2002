@@ -78,58 +78,112 @@ alt="Github Stats"
 
 <p>
   <h2>Experiência:</h2>
-      <img src="https://www.tjes.jus.br/wp-content/uploads/Brasao_simple_COR-1-110x118-2.png">
-      <h3> Tribunal de Justiça do Estado do Espírito Santo - Estagiário de Sistemas - 1 Ano </h3>
-      Responsável pela prototipação, teste e implementação de ferramentas para o setor de Patrimônio. Além da manutenção de sistemas antigos não mencionados neste documento.<br>
-      <a href="https://drive.google.com/file/d/1qNzT6h-bu7iu9tRb-CL4OWWHTuZ9ID9A/view?usp=sharing">Certificado de Desempenho</a> 
-      <h3>Tecnologias:</h3> 
-        <div class="inline-block">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-        </div>
-        <h4>Responsável pela implementação dos sistemas:</h4>
-        <ul>
-          <li>
-            Módulo de Agendamento de Veículos
-            <p>Módulo responsável por cadastrar e associar veículos e motoristas, controlar a alocação desses veículos, notificar os usuários em diferentes plataformas de comunicação externas ao sistema, gerar relatórios diversos e documentos comprovando a viagem</p>
-          </li>
-          <li>
-            Módulo de Planos de Contratação
-            <p>Módulo responsável por Gerenciar os planos de contratação de todos os setores do poder executivo durante um determinado ano. O sistema também gera relatórios e gráficos em um sub-módulo de BI feito com Chart.Js</p>
-          </li>
-          <li>
-            Módulo de Agendamento de visita de Artífices
-            <p>Eu supervisionei e ajudei no Desenvolvimento de um módulo onde os usuários de diferentes setores podem requisitar Artífices para reparar ou substituir patrimônio danificado.</p>
-          </li>
-          <br>
-        </ul> 
-        <img style="height:100px ; width:190px" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
-        <h3> Instituto Federal do Espírito Santo - Estagiário de Sistemas - 2 mês de 1 Ano  (Trabalho Atual)</h3>
-        <div class="inline-block">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-          <img src="https://img.shields.io/badge/BPMN-00A8E1?style=for-the-badge&logo=java&logoColor=white" />
-          <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-          <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Django-007FFC?style=for-the-badge&logo=django&logoColor=white"  />
-          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
-        </div>
-        <h4>Participou da implementação dos sistemas:</h4>
-        <ul>
-          <li>
-            Aplicativo de Gestão e controle de Frequência de Cumpridores de Serviço como Medida Alternativa via Reconhecimento facial.  
-            <img style="height:100px ; width:190px" src="https://www.tjrr.jus.br/images/ascom2017/04abr/logo-vepema.jpg" />
-            <p>Projeto em Andamento...</p>
-          </li>
-          <br>
-        </ul> 
+
+<!-- TJES -->
+<img src="https://www.tjes.jus.br/wp-content/uploads/Brasao_simple_COR-1-110x118-2.png">
+<h3>Tribunal de Justiça do Estado do Espírito Santo – Estagiário de Sistemas</h3>
+<p><strong>Março 2023 – Março 2024 | Vitória - ES</strong></p>
+
+<p>
+Responsável pelo levantamento de requisitos, prototipação, desenvolvimento, testes e implantação de múltiplos módulos do sistema E-GAP.
+Também atuei na manutenção de sistemas legados do setor de Patrimônio.
+</p>
+
+<h4>Módulos implementados:</h4>
+<ul>
+  <li>
+    <strong>Módulo de Gestão de Frota de Veículos</strong>
+    <p>Cadastro e associação de veículos e motoristas, controle de alocação, geração de relatórios, documentos de viagem e notificações externas.</p>
+  </li>
+  <li>
+    <strong>Módulo de Plano de Contratação</strong>
+    <p>Gerenciamento anual de planos de contratação de setores do executivo, com geração de relatórios e dashboards (Chart.js).</p>
+  </li>
+  <li>
+    <strong>Módulo de Agendamento de Artífices</strong>
+    <p>Permite que setores requisitem manutenção ou substituição de patrimônio danificado.</p>
+  </li>
+  <li>
+    <strong>Módulo do Portal da Transparência</strong>
+    <p>Exposição estruturada de dados administrativos conforme requisitos de transparência pública.</p>
+  </li>
+</ul>
+
+<h4>Tecnologias:</h4>
+<div class="inline-block">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+<br><br>
+
+<!-- IFES LEDS -->
+<img style="height:100px ; width:190px" src="https://www.infoescola.com/wp-content/uploads/2016/11/IFES.jpg">
+<h3>Instituto Federal do Espírito Santo (Laboratório LEDS) – Estagiário de Sistemas</h3>
+<p><strong>Março 2024 – Outubro 2025 | Remoto</strong></p>
+
+<p>
+Desenvolvimento completo (Web + App Mobile) de solução para gerenciamento de Prestação de Serviço Comunitário em parceria com a VEPEMA.
+Atuei junto de outros dois desenvolvedores no ciclo completo do projeto.
+</p>
+
+<h4>Principais funcionalidades:</h4>
+<ul>
+  <li>Cadastro de cumpridores de serviço e informações processuais.</li>
+  <li>Definição de regras de cumprimento da pena alternativa.</li>
+  <li>Encaminhamento para instituições parceiras.</li>
+  <li>Acompanhamento, controle de frequência e aplicação de penalidades.</li>
+  <li>Módulo de apoio à Polícia Penal com otimização de rotas.</li>
+  <li>Monitoramento em tempo real de descumprimentos.</li>
+  <li>Aplicativo próprio de registro de ponto com geolocalização e reconhecimento facial.</li>
+</ul>
+
+<h4>Tecnologias:</h4>
+<div class="inline-block">
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-007FFC?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+<br><br>
+
+<!-- IFES + Zaruc -->
+<h3>Instituto Federal do Espírito Santo (Laboratório LEDS) & Zaruc Tecnologia S.A – Estagiário de Sistemas</h3>
+<p><strong>Outubro 2025 – Atual | Remoto</strong></p>
+
+<p>
+Atuação em colaboração com a Zaruc Tecnologia S.A. em projeto interno voltado para monitoramento de gasto energético no setor industrial.
+Devido à natureza privada do projeto, detalhes técnicos não podem ser divulgados.
+</p>
+
+<br><br>
+
+<!-- Startup -->
+<h3>Startup Me Cuida – Membro Fundador | Desenvolvedor</h3>
+<p><strong>Remoto</strong></p>
+
+<p>
+Desenvolvimento de sistema para acompanhamento de pacientes no período pós-consulta,
+com foco em aumento de adesão ao tratamento e retenção de clientes para clínicas.
+</p>
+
+<br><br>
+
+<!-- Trabalho Comunitário -->
+<h3>Projeto Social (Em Estruturação) – Membro Fundador | Desenvolvedor</h3>
+<p><strong>Remoto</strong></p>
+
+<p>
+Desenvolvimento de sistema para auxiliar pessoas com vícios ou dependências a encontrar
+instituições e órgãos governamentais de apoio.
+</p>
         
   </p>
