@@ -73,7 +73,7 @@ alt="Github Stats"
 
 <h2>Formação Acadêmica</h2>
 <p>  
-  Cursando 5° Período no curso superior de Sistemas de Informação no IFES Serra.
+  Cursando 8° Período no curso superior de Sistemas de Informação no IFES Serra.
 </p>
 
 <p>
